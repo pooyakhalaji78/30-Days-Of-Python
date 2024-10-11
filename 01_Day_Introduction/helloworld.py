@@ -12,7 +12,7 @@ print(3 // 2)  # Floor division operator(//)
 # Checking data types
 
 print(type(10))                  # Int
-print(type(3.14))                # Float
+print(type(3.15))                # Float
 print(type(1 + 3j))              # Complex
 print(type('Asabeneh'))          # String
 print(type([1, 2, 3]))           # List
